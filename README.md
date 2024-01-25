@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Algorithms, Deep Learning, GoLang, NextJS, TypeScript... <br></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Create Portfolio & Learn: Algorithms, Deep Learning, GoLang, NextJS, TypeScript... <br></p>
 
 <!--
 **fnvir/fnvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
