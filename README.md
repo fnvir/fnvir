@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🤔 About me</h2>
 
 ###
 
@@ -54,6 +54,12 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fnvir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/fnvir/fnvir/output/snake.svg" alt="Snake animation" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -61,12 +67,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=fnvir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fnvir/fnvir/output/snake.svg" alt="Snake animation" />
 
 ###
 
