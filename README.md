@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with me:
 <p align="left">
+  <a href="mailto:farhantaanvir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" height="30" width="80" /></a>
   <a href="https://linkedin.com/in/fnvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fnvir" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/t_error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="t_error" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/bug_eater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="t_error" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/bug_eater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fnvir" height="30" width="40" /></a>
 </p>
 
 ###
