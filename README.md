@@ -50,10 +50,14 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-red-kappa.vercel.app/api?username=fnvir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en)<br/>
 <!--![](https://streak-stats.demolab.com/?user=fnvir&theme=radical&hide_border=false&locale=en)<br/> -->
+<!--
 ![](https://github-readme-stats-red-kappa.vercel.app/api/top-langs/?username=fnvir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fnvir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=fnvir&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+-->
 
 ###
 
