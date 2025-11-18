@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Completed bachelor's in Computer Science and Engg. <br>💼 Currently working as Fullstack Dev (Spring Boot, React, Kubernetes...) <br></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 Completed bachelor's in Computer Science and Engg. <br>💼 Currently working as Backend Engineer (Java Spring Boot, Kubernetes, PostgreSQL, Apache Kafka, Microservices...) <br></p>
 
 <!--
 **fnvir/fnvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
